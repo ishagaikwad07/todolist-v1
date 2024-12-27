@@ -24,10 +24,10 @@ To set up the Enhanced To-Do List on your local machine, follow these steps:
 
 1. Clone the Repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ishagaikwad07/todolist-v1.git
 2. Navigate to the Project Directory:
    ```bash
-   cd enhanced-todo-list
+   cd todolist-v1
 3. Open the Application: Open index.html in your preferred web browser.
 
 ##Usage
